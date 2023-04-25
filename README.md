@@ -8,13 +8,12 @@ My name is Akeem from South Africa, and I am a currently studying for a career i
 * 🖥️ HTML, CSS, JS, C#
 * 🎮 Unity 
 * 🧱 Blender
+* [link](http://example.com)
 
 Skills: UNITY / BLENDER / JS / HTML / CSS
 
 ## Examples of Work
 <img src="https://github.com/Akido123/Akido123/blob/a89e8162b9eae0de1d3c3c5d123a7b6c940a9178/final%20render%20of%20office%20area.png">
-[link](http://example.com)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akido123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Akido123/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deviantart.svg' alt='deviantart' height='40'>](https://www.deviantart.com/akido123) 
