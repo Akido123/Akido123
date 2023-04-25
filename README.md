@@ -13,7 +13,6 @@ Skills: UNITY / BLENDER / JS / HTML / CSS
 
 ## Examples of Work
 <img src="https://github.com/Akido123/Akido123/blob/a89e8162b9eae0de1d3c3c5d123a7b6c940a9178/final%20render%20of%20office%20area.png">
-[My Resume](https://youtu.be/uvTcd-VlM64)
 - 🔭 I’m currently working as a Freelancer 
 
 
