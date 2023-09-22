@@ -28,9 +28,11 @@ Though it may not count as a form of work in the sense of making money, I do bel
 
 ---
 
-## My Projects
+## Example Projects
 
-- 
+- [Resteraunt App](https://github.com/Akido123/Resteraunt-Order-Application.git)
+- [Athlete Tracker](https://github.com/Akido123/Ahtlete-tracker.git)
+- [My Digital Resume](https://github.com/Akido123/My-Digital-Resume.git)
 
 ## Contacts
 
