@@ -26,13 +26,14 @@ Though it may not count as a form of work in the sense of making money, I do bel
 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
----
-
 ## Example Projects
 
 - [Resteraunt App](https://github.com/Akido123/Resteraunt-Order-Application.git)
 - [Athlete Tracker](https://github.com/Akido123/Ahtlete-tracker.git)
 - [My Digital Resume](https://github.com/Akido123/My-Digital-Resume.git)
+
+---
+
 
 ## Contacts
 
