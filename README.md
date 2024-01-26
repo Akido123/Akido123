@@ -2,7 +2,7 @@
 
 ![hero banner](hero-banner.png)
 
-Hey there, how's it hanging? My name is Akeem Brown, but for formality, it's Mr. Brown. I am a novice-level front-end developer looking to improve my skills through experience and learn more about the world of computer programming. With my technical prowess in a handful of IDEs and languages, and some additional skills, I am confident in my ability in the digital industry... *sometimes*. However, my overconfidence does not come without merit, as I have taken the time to hone my skills with other institutions like CodeSpace and the University of Cape Town. If this has piqued your interest, take a further look at my profile.
+Hey there, how's it hanging? My name is Akeem Brown, but for formality, it's Mr. Brown. I am a Junior level Software Developer looking to improve my skills through experience and learn more about the world of computer programming. With my technical prowess in a handful of IDEs and languages, and some additional skills, I am confident in my ability in the digital industry... *sometimes*. However, my overconfidence does not come without merit, as I have taken the time to hone my skills with other institutions like CodeSpace and the University of Cape Town. If this has piqued your interest, take a further look at my profile.
 
 ## Education
 
@@ -31,6 +31,7 @@ Though it may not count as a form of work in the sense of making money, I do bel
 - [Resteraunt App](https://github.com/Akido123/Resteraunt-Order-Application.git)
 - [Athlete Tracker](https://github.com/Akido123/Ahtlete-tracker.git)
 - [My Digital Resume](https://github.com/Akido123/My-Digital-Resume.git)
+- [Recipe App](https://foodiesdelight.vercel.app/)
 
 ---
 
